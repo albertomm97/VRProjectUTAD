@@ -1,0 +1,8 @@
+Model Information:
+* title:	Shooting range
+* source:	https://sketchfab.com/3d-models/shooting-range-5b8f1c2bfc8b48518cf733d0da6557e6
+* author:	Elvair Lima (https://sketchfab.com/elvair)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

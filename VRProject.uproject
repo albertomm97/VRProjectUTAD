@@ -49,6 +49,10 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "GLTFImporter",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
